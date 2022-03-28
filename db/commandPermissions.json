@@ -1,0 +1,12 @@
+[
+    {
+        "commandName": "banned_word",
+        "roles": "admin",
+        "defaultPermission": false
+    },
+    {
+        "commandName": "delete_word",
+        "roles": "admin",
+        "defaultPermission": false
+    }
+]
